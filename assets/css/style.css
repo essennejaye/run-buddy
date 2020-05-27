@@ -3,18 +3,15 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 body { 
     color: #39a6b2;
     font-family: Arial, Helvetica, sans-serif;    
 }
-
 /* apply styles to <header> */
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
 }
-
 header h1 {
     /*color: #fce138;*/
     font-weight: bold;
@@ -22,7 +19,6 @@ header h1 {
     margin: 0; 
     display: inline;
 }
-
 header a {
     text-decoration: none;
     color: #fce138;
@@ -32,7 +28,6 @@ header nav {
     float: right;
     margin: 7px 0;
 }
-
 header nav ul li {
     display: inline;
 }
@@ -64,4 +59,28 @@ footer div {
 
 footer a {
     color: #024e76;
+}
+
+section {
+    padding: 60px;
+}
+/* Hero Style Start */
+.hero {
+    background-image: url("../images/hero-bg.jpg");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+/* Hero Style End */
+/* HeroForm Style Start */
+.hero-form {
+    background-color: #fce138;
+    color: #024e76;
+    padding: 20px;
+    width: 500px;
+    border: solid 3px #024e76;
+    position: absolute;
+    bottom: 120px;
+    right: 140px;
 }
