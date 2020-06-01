@@ -1,6 +1,6 @@
 # RUN BUDDY, Inc stopmerge
 
-## Purpose
+## Purpose of the website
 A website that offers fitness training services.
 Payment plans are available.
 
@@ -8,7 +8,7 @@ Payment plans are available.
 * HTML
 * CSS
 
-## Website
+## Website URL
 https://lernantino.github.io/run-buddy/
 
 ## Contribution
