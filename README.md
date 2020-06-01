@@ -1,4 +1,7 @@
-# RUN BUDDY, Inc a running company
+# RUN BUDDY, Inc
+Big change
+Big change
+Big change
 
 ## Purpose of the website
 A website that offers fitness training services.
