@@ -13,4 +13,4 @@ https://lernantino.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Satalia Jefferson
 
-###  2019 Run Buddy, Inc
+### (c) 2019 Run Buddy, Inc
