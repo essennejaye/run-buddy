@@ -1,4 +1,4 @@
-# RUN BUDDY, Inc stopmerge
+# RUN BUDDY, Inc a running company
 
 ## Purpose of the website
 A website that offers fitness training services.
@@ -14,4 +14,4 @@ https://lernantino.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Satalia Jefferson
 
-### (c) 2019 Run Buddy stopmerge
+### (c) 2019 Run Buddy a running company
