@@ -2,6 +2,7 @@
 
 ## Purpose
 A website that offers fitness training services.
+Payment plans are available.
 
 ## Built With
 * HTML
