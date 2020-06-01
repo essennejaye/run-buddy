@@ -1,11 +1,7 @@
 # RUN BUDDY, Inc
-Big change
-Big change
-Big change
 
 ## Purpose
 A website that offers fitness training services.
-Payment plans are available.
 
 ## Built With
 * HTML
