@@ -292,7 +292,7 @@ footer a {
 .flex-row {
     display: flex;
 }
- section {
+section {
     padding: 60px;
 }
 /* media query for smaller desktop screens */
